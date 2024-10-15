@@ -23,9 +23,10 @@ Data-Driven Insights: Provides actionable analytics to inform inventory manageme
 **Demo Link:**
 https://alto-theta.vercel.app/
 
-![image](https://github.com/user-attachments/assets/7f59d750-961b-4048-8722-5f582bc8e7a6)
+![image](https://github.com/user-attachments/assets/f3e122e7-04f6-42b5-86f3-1e3ad41f9938)
 
-![image](https://github.com/user-attachments/assets/82514e4f-cace-47a8-847c-723a96686898)
+![image](https://github.com/user-attachments/assets/af4978ae-ee81-49f8-a7e5-af3a1e8542c6)
+
 
 
 
