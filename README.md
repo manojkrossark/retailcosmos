@@ -48,6 +48,14 @@ https://alto-theta.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/0e3f79fb-9d5f-4d91-b6b1-83ec86808de7)
 
+![image](https://github.com/user-attachments/assets/a63b12bb-7d6d-4bd0-9637-0600294d3e2b)
+
+![image](https://github.com/user-attachments/assets/8369db3a-d480-4263-8798-81415e91e7a2)
+
+![image](https://github.com/user-attachments/assets/dc0f742b-cb26-47b2-a094-84045f10aa24)
+
+![image](https://github.com/user-attachments/assets/4431e4b0-388c-4975-b0f0-ce8d527712da)
+
 
 Steps to install the frontend app
 
